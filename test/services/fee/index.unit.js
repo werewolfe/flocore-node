@@ -13,7 +13,7 @@ describe('#Fee Service', function() {
     sandbox = sinon.sandbox.create();
     feeService = new FeeService({
       rpc: {
-        user: 'bitcoin',
+        user: 'florincoin',
         pass: 'local321',
         host: 'localhost',
         protocol: 'http',
