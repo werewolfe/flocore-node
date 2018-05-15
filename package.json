@@ -29,7 +29,7 @@
   ],
   "dependencies": {
     "async": "^2.5.0",
-    "fcoin": "1.0.0-beta.16",
+    "fcoin": "1.0.0-beta.17",
     "florincoind-rpc": "0.7.1",
     "flocore-lib": "0.15.0",
     "flocore-p2p": "5.0.0-beta.2",
