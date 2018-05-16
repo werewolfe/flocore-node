@@ -5,12 +5,12 @@
     "node": ">=8.0.0"
   },
   "author": "BitPay <dev@bitpay.com>",
-  "version": "5.0.0-beta.57",
+  "version": "5.0.0-beta.58",
   "main": "./index.js",
-  "repository": "git://github.com/bitpay/flocore-node.git",
-  "homepage": "https://github.com/bitpay/flocore-node",
+  "repository": "git://github.com/oipwg/flocore-node.git",
+  "homepage": "https://github.com/oipwg/flocore-node",
   "bugs": {
-    "url": "https://github.com/bitpay/flocore-node/issues"
+    "url": "https://github.com/oipwg/flocore-node/issues"
   },
   "bin": {
     "flocore-node": "./bin/flocore-node"
