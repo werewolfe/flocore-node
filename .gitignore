@@ -31,3 +31,4 @@ flocore-node.json*
 *.bak
 *.orig
 lib/services/insight-api
+testnet/*
