@@ -37,7 +37,7 @@
     "errno": "^0.1.4",
     "express": "^4.13.3",
     "fcoin": "https://github.com/OstlerDev/fcoin#bcoin-1.0.2",
-    "flocore-lib": "0.15.1",
+    "flocore-lib": "^0.15.2",
     "flocore-p2p": "https://github.com/oipwg/flocore-p2p#update-fcoin",
     "florincoind-rpc": "0.7.1",
     "flosight-api": "https://github.com/oipwg/flosight-api#update-fcoin",
