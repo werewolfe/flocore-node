@@ -38,7 +38,7 @@
     "express": "^4.13.3",
     "fcoin": "^1.1.2",
     "flocore-lib": "git://github.com/werewolfe/digibyte-lib.git",
-    "flocore-message": "git://github.com/werewolfe/digibyte-lib.git",
+    "flocore-message": "git://github.com/werewolfe/digibyte-message.git",
     "flocore-p2p": "git://github.com/werewolfe/digibyte-p2p.git",
     "florincoind-rpc": "git://github.com/DigiByte-Core/digibyted-rpc.git",
     "flosight-api": "^5.0.0-beta.75",
